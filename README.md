@@ -61,3 +61,8 @@ a Android (EN - Linux)](https://www.youtube.com/watch?v=-N5ETg6cBu0&ab_channel=B
 - [Solución para posible error ETC2/ASTC (EN)](https://www.reddit.com/r/godot/comments/16d15in/error_when_trying_to_export_project_on_android/)
 - [Solución para posible error No se muestra el ícono de android en Godot
 (EN)](https://www.reddit.com/r/godot/comments/e11l22/the_android_icon_is_not_showing_up_in_the_godot/)
+
+
+
+### Recursos
+- [Personaje principal](https://free-game-assets.itch.io/free-tiny-hero-sprites-pixel-art)
